@@ -1,0 +1,31 @@
+Games,Year,Country,Type,Events,Athletes,Cost,GDP
+Rome,1960,Italy,Summer,150,5338,0.265,40.39
+Tokyo,1964,Japan,Summer,163,5152,0.072,81.75
+Mexico City,1968,Mexico,Summer,172,5516,0.176,29.36
+Munich,1972,Germany,Summer,195,7234,1.08,299.8
+Montreal,1976,Canada,Summer,198,6048,1.522,206.57
+Moscow,1980,Soviet Union,Summer,203,5179,0.231,1910
+Los Angeles,1984,United States,Summer,221,6829,0.32,40.04
+Seoul,1988,South Korea,Summer,237,8397,4,255
+Barcelona,1992,Spain,Summer,257,9356,0.85,649.3
+Atlanta,1996,United States,Summer,271,10318,4.2,8073.12
+Sydney,2000,Australia,Summer,300,10651,8.1,415.85
+Athens,2004,Greece,Summer,301,10625,18.7,240.96
+Beijing,2008,China,Summer,302,10942,52.7,4594.31
+London,2012,United Kingdom,Summer,302,10568,14.957,1923.551
+Rio,2016,Brazil,Summer,306,10500,13.692,1795.7
+Squaw Valley,1960,United States,Winter,27,665,0.0001,
+Innsbruck,1964,Austria,Winter,34,1091,0.0009,
+Grenoble,1968,France,Winter,35,1158,0.0026,
+Sapporo,1972,Japan,Winter,35,1006,0.0085,
+Innsbruck,1976,Austria,Winter,37,1123,0.0116,
+Lake Placid,1980,United States,Winter,38,1072,0.0207,
+Sarajevo,1984,Yugoslavia,Winter,39,1272,0.1027,
+Calgary,1988,Canada,Winter,46,1432,0.3249,
+Albertville,1992,France,Winter,57,1801,0.2919,
+Lillehammer,1994,Norway,Winter,61,1737,0.3529,
+Nagano,1998,Japan,Winter,68,2176,0.5135,
+Salt Lake City,2002,United States,Winter,78,2399,0.738,
+Torino,2006,Italy,Winter,84,2508,0.831,
+Vancouver,2010,Canada,Winter,86,2566,1.3,
+Sochi,2014,Russia,Winter,98,2780,1.3,
